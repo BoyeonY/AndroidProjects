@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizBuilder_A2</string>
+    <string name="txtTitle">QUIZ TIME</string>
+
+    <string name="btnStart">start</string>
+    <string name="hint">hint</string>
+    <string name="TxtName2">userName2</string>
+    <string name="txtScore2">0</string>
+    <string name="btnFinish">finish</string>
+    <string name="txtQuestion">questionbox</string>
+    <string name="btnAns1">Answer1</string>
+    <string name="btnAns2">Answer2</string>
+    <string name="btnAns3">Answer3</string>
+    <string name="btnAns4">Answer4</string>
+    <string name="txtScore3">viewScore3</string>
+    <string name="btnRestart">restart</string>
+    <string name="btnHome">home</string>
+    <string name="phone_hint">phone_hint</string>
+    <string name="edName">Please enter a user name</string>
+    <string name="txtError">Error</string>
+</resources>
